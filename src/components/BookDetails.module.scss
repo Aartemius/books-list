@@ -29,6 +29,7 @@
     padding-left: 3.5rem;
     @include maxw($mob) {
       width: 100%;
+      padding-left: 0;
     }
   }
   .titleContent {
