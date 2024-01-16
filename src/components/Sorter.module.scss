@@ -1,0 +1,57 @@
+@import '../global.scss';
+
+.contentBlockTopBar {
+  @include flex-horizontal-wrap(space-between, center);
+  padding: 0 1.5rem;
+  margin-bottom: 1.25rem;
+  &>p {
+    font-weight: 600;
+    font-size: 18px;
+  }
+  .sorterWrap {
+    @include flex-horizontal-wrap(flex-start, center);
+    .togglerWrap {
+      @include flex-horizontal-wrap(flex-start, center);
+      margin-right: 1rem;
+      font-size: 14px;
+      cursor: pointer;
+      img {
+        height: 1.5rem;
+        margin-right: .35rem;
+      }
+    }
+    .dropdownWrap {
+      position: relative;
+      .dropdownCurrent {
+        @include flex-horizontal-wrap(space-between, center);
+        padding: .6rem .75rem;
+        border-radius: 6px;
+        border: 0.5px solid rgba(255, 255, 255, 0.30);
+        width: 7rem;
+        cursor: pointer;
+      }
+      .dropdown {
+        z-index: 100;
+        position: absolute;
+        width: 100%;
+        left: 0;
+        bottom: -5px;
+        transform: translateY(100%);
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        background: #1F1F1F;
+        border-radius: 6px;
+        li {
+          color: $white-80;
+          cursor: pointer;
+          padding: .5rem .75rem;
+          transition: .3s;
+          &:hover {
+            color: $white-50;
+          }
+        }
+      }
+    }
+  }
+}

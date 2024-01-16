@@ -1,0 +1,25 @@
+@import '../global.scss';
+
+.appContainer {
+  width: 70%;
+  margin: 1rem auto;
+  border-radius: 1.25rem;
+  border: 1px solid $grey;
+  @include maxw($tab) {
+    width: 90%;
+  }
+  .topBar {
+    padding: 1.25rem;
+    border-bottom: 1px solid $grey;
+    p {
+      font-weight: 600;
+    }
+    img {
+      margin-right: auto;
+      cursor: pointer;
+    }
+  }
+  .contentContainer {
+    padding: 1.25rem 0 .75rem;
+  }
+}

@@ -1,0 +1,49 @@
+@import '../global.scss';
+
+.bookCard {
+  width: calc(20% - 3rem);
+  display: block;
+  margin: 0 1.5rem 1.5rem;
+  @include maxw($tab) {
+    width: calc(100% / 3 - 3rem);
+  }
+  @include maxw($mob) {
+    width: calc(100% - 3rem);
+  }
+  opacity: 0;
+  transition: opacity .5s ease .5s;
+  .coverWrap {
+    width: 100%;
+    height: 18rem;
+    position: relative;
+    border-radius: .75rem;
+    margin-bottom: .5rem;
+    overflow: hidden;
+    .coverImage {
+      width: 102%;
+      height: 102%;
+      margin-left: -2px;
+      margin-top: -2px;
+      object-fit: cover;
+      transition: .3s;
+      &:hover {
+        transform: scale(1.03);
+      }
+    }
+    .isViewedIcon {
+      position: absolute;
+      top: .5rem;
+      right: 1rem;
+    }
+  }
+  p {
+    font-size: 14px;
+    &.author {
+      font-weight: 600;
+    }
+  }
+}
+
+.bookCard.inView {
+  opacity: 1;
+}

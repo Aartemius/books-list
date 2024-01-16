@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "title": "The Enigmatic Odyssey",
+    "author": "Evelyn Harper",
+    "cover": "/images/covers/Rectangle-1.jpg",
+    "rate": 4.5,
+    "release_date": 1672531199,
+    "description": "A thrilling journey into the unknown.",
+    "downloads": 12030,
+    "reader_reviews": [
+      {
+        "name": "Alice Johnson",
+        "review": "Captivating story! I couldn't put it down.",
+        "age": 28
+      },
+      {
+        "name": "John Smith",
+        "review": "Wonderful characters and a compelling plot.",
+        "age": 35
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Whispers in the Mist",
+    "author": "Caleb Thompson",
+    "cover": "/images/covers/Rectangle-2.jpg",
+    "rate": 3.8,
+    "release_date": 1696166399,
+    "description": "Mysterious events unfold in a foggy town.",
+    "downloads": 15630,
+    "reader_reviews": [
+      {
+        "name": "Emily Davis",
+        "review": "Interesting twists and turns. Keeps you guessing.",
+        "age": 31
+      },
+      {
+        "name": "Robert Clark",
+        "review": "Atmospheric and haunting. Loved it!",
+        "age": 42
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Chronicles of Eternity",
+    "author": "Amelia Carter",
+    "cover": "/images/covers/Rectangle-3.jpg",
+    "rate": 4.2,
+    "release_date": 1684022399,
+    "description": "Epic tales of timeless adventures.",
+    "downloads": 212030,
+    "reader_reviews": [
+      {
+        "name": "Sophie Turner",
+        "review": "A fantasy masterpiece! Must-read.",
+        "age": 29
+      },
+      {
+        "name": "Michael Harris",
+        "review": "Immersive world-building. Couldn't get enough.",
+        "age": 38
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Ripples of Reflection",
+    "author": "David Turner",
+    "cover": "/images/covers/Rectangle-4.jpg",
+    "rate": 4,
+    "release_date": 1664783999,
+    "description": "Contemplative tales that echo through the soul.",
+    "downloads": 5030,
+    "reader_reviews": [
+      {
+        "name": "Jennifer Adams",
+        "review": "Beautifully written. Each story leaves a lasting impact.",
+        "age": 27
+      },
+      {
+        "name": "Kevin White",
+        "review": "Thought-provoking. Made me reflect on life.",
+        "age": 40
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Serpents of Destiny",
+    "author": "Olivia Roberts",
+    "cover": "/images/covers/Rectangle-5.jpg",
+    "rate": 4.8,
+    "release_date": 1677667199,
+    "description": "A gripping tale of fate and unforeseen consequences.",
+    "downloads": 120,
+    "reader_reviews": [
+      {
+        "name": "Daniel Parker",
+        "review": "Couldn't stop reading. Every chapter is a revelation.",
+        "age": 33
+      },
+      {
+        "name": "Megan Turner",
+        "review": "Brilliant storytelling. The plot twists are genius.",
+        "age": 36
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Silent Whispers",
+    "author": "Nathan Wilson",
+    "cover": "/images/covers/Rectangle-6.jpg",
+    "rate": 3.5,
+    "release_date": 1693831999,
+    "description": "Intrigue and mystery shroud a small town's secrets.",
+    "downloads": 6574,
+    "reader_reviews": [
+      {
+        "name": "Ella Davis",
+        "review": "Keeps you on the edge of your seat. A suspenseful masterpiece.",
+        "age": 30
+      },
+      {
+        "name": "Samuel Roberts",
+        "review": "Couldn't predict the ending. Gripping until the last page.",
+        "age": 39
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Echoes of Serenity",
+    "author": "Isabella Clark",
+    "cover": "/images/covers/Rectangle-7.jpg",
+    "rate": 4.2,
+    "release_date": 1701567999,
+    "description": "Tranquil tales that resonate with the soul.",
+    "downloads": 5630,
+    "reader_reviews": [
+      {
+        "name": "Sophia Turner",
+        "review": "A peaceful journey. Loved the serene atmosphere.",
+        "age": 28
+      },
+      {
+        "name": "Jacob Miller",
+        "review": "Calming and beautiful. Perfect for a quiet evening.",
+        "age": 34
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Whispers of Destiny",
+    "author": "Alexander White",
+    "cover": "/images/covers/Rectangle-8.jpg",
+    "rate": 4.7,
+    "release_date": 1689484799,
+    "description": "Destiny's secrets unfold in a tapestry of whispers.",
+    "downloads": 15,
+    "reader_reviews": [
+      {
+        "name": "Emma Davis",
+        "review": "Intriguing and thought-provoking. A must-read!",
+        "age": 32
+      },
+      {
+        "name": "Nicholas Clark",
+        "review": "Destiny's whispers linger. Couldn't put it down.",
+        "age": 43
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Reverie of Shadows",
+    "author": "Madison Wilson",
+    "cover": "/images/covers/Rectangle-9.jpg",
+    "rate": 3.9,
+    "release_date": 1691238399,
+    "description": "Dreams and shadows entwine in a mesmerizing dance.",
+    "downloads": 960,
+    "reader_reviews": [
+      {
+        "name": "Ava Parker",
+        "review": "Enchanting and atmospheric. Loved the dreamy feel.",
+        "age": 29
+      },
+      {
+        "name": "Leo Harris",
+        "review": "Hauntingly beautiful. A unique reading experience.",
+        "age": 37
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Whispers in Time",
+    "author": "Grace Turner",
+    "cover": "/images/covers/Rectangle-10.jpg",
+    "rate": 4.4,
+    "release_date": 1703228799,
+    "description": "Temporal whispers echo through the corridors of history.",
+    "downloads": 547,
+    "reader_reviews": [
+      {
+        "name": "Liam Davis",
+        "review": "Fascinating exploration of time. A page-turner!",
+        "age": 31
+      },
+      {
+        "name": "Chloe Clark",
+        "review": "Mind-bending and thrilling. Couldn't predict the twists.",
+        "age": 35
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Ephemeral Dreams",
+    "author": "Ethan White",
+    "cover": "/images/covers/Rectangle-3.jpg",
+    "rate": 4.6,
+    "release_date": 1677667199,
+    "description": "Dreams that fade like morning mist, leaving a lasting impression.",
+    "downloads": 1235,
+    "reader_reviews": [
+      {
+        "name": "Hannah Turner",
+        "review": "Beautifully written. The imagery is enchanting.",
+        "age": 28
+      },
+      {
+        "name": "Owen Clark",
+        "review": "Ephemeral yet powerful. A literary gem.",
+        "age": 40
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Crests of Destiny",
+    "author": "Scarlett Turner",
+    "cover": "/images/covers/Rectangle-2.jpg",
+    "rate": 3.7,
+    "release_date": 1706284799,
+    "description": "Destiny's peaks hold the key to a timeless mystery.",
+    "downloads": 9405,
+    "reader_reviews": [
+      {
+        "name": "Mia Davis",
+        "review": "Interesting concept. The crest symbolism is intriguing.",
+        "age": 33
+      },
+      {
+        "name": "Aaron Miller",
+        "review": "A unique take on destiny. Enjoyed the symbolism.",
+        "age": 36
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Harmony in Shadows",
+    "author": "Logan Wilson",
+    "cover": "/images/covers/Rectangle-6.jpg",
+    "rate": 4.1,
+    "release_date": 1676409599,
+    "description": "Where shadows and harmony coalesce into a mesmerizing symphony.",
+    "downloads": 43,
+    "reader_reviews": [
+      {
+        "name": "Natalie Parker",
+        "review": "Lyrical and captivating. Harmony in every word.",
+        "age": 30
+      },
+      {
+        "name": "Elijah Harris",
+        "review": "The interplay of light and shadow is beautifully depicted.",
+        "age": 42
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Eternal Echoes",
+    "author": "Aria White",
+    "cover": "/images/covers/Rectangle-4.jpg",
+    "rate": 4.8,
+    "release_date": 1694943999,
+    "description": "Whispers of eternity resonate through the ages.",
+    "downloads": 1236,
+    "reader_reviews": [
+      {
+        "name": "Sophie Turner",
+        "review": "A timeless masterpiece. Echos linger in the mind.",
+        "age": 29
+      },
+      {
+        "name": "Michael Harris",
+        "review": "Captivating. Echoes of the story linger long after.",
+        "age": 38
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Shadows of Tomorrow",
+    "author": "Cameron Turner",
+    "cover": "/images/covers/Rectangle-1.jpg",
+    "rate": 3.9,
+    "release_date": 1684022399,
+    "description": "The enigmatic shadows cast visions of an uncertain tomorrow.",
+    "downloads": 543,
+    "reader_reviews": [
+      {
+        "name": "Ava Davis",
+        "review": "Intriguing. The play of shadows adds depth to the narrative.",
+        "age": 32
+      },
+      {
+        "name": "Nicholas Clark",
+        "review": "Thought-provoking. Shadows tell a tale of their own.",
+        "age": 43
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Reverie of Whispers",
+    "author": "Isaac White",
+    "cover": "/images/covers/Rectangle-5.jpg",
+    "rate": 4.2,
+    "release_date": 1664783999,
+    "description": "Dreamy whispers weave tales of enchantment and longing.",
+    "downloads": 3568,
+    "reader_reviews": [
+      {
+        "name": "Ella Parker",
+        "review": "Enchanting. Each whisper is like a dream.",
+        "age": 27
+      },
+      {
+        "name": "Liam Harris",
+        "review": "A beautiful reverie. Whispers linger in the mind.",
+        "age": 39
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Ephemeral Serenity",
+    "author": "Amelia Turner",
+    "cover": "/images/covers/Rectangle-8.jpg",
+    "rate": 4.4,
+    "release_date": 1691238399,
+    "description": "Serenity that lasts only a moment, leaving a profound impact.",
+    "downloads": 4634,
+    "reader_reviews": [
+      {
+        "name": "Chloe Davis",
+        "review": "Captivating. Serenity in every page.",
+        "age": 31
+      },
+      {
+        "name": "Owen Clark",
+        "review": "Ephemeral yet powerful. A literary gem.",
+        "age": 40
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Whispers of Eternity",
+    "author": "Oliver White",
+    "cover": "/images/covers/Rectangle-9.jpg",
+    "rate": 4,
+    "release_date": 1696166399,
+    "description": "Eternal whispers echo through the tapestry of time.",
+    "downloads": 234,
+    "reader_reviews": [
+      {
+        "name": "Emma Turner",
+        "review": "Thought-provoking. The concept of eternity is beautifully explored.",
+        "age": 28
+      },
+      {
+        "name": "Leo Harris",
+        "review": "Captivating. Whispers that transcend time.",
+        "age": 35
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Echoes of Reflection",
+    "author": "Avery Davis",
+    "cover": "/images/covers/Rectangle-10.jpg",
+    "rate": 3.8,
+    "release_date": 1689484799,
+    "description": "Reflections that echo through the corridors of the soul.",
+    "downloads": 998,
+    "reader_reviews": [
+      {
+        "name": "Sophia Turner",
+        "review": "Reflective and thought-provoking. Echoes resonate deeply.",
+        "age": 29
+      },
+      {
+        "name": "Jacob Miller",
+        "review": "Beautifully written. Each reflection leaves an impression.",
+        "age": 34
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Serenade of Shadows",
+    "author": "Noah White",
+    "cover": "/images/covers/Rectangle-9.jpg",
+    "rate": 4.7,
+    "release_date": 1693831999,
+    "description": "A musical journey through the haunting serenade of shadows.",
+    "downloads": 543,
+    "reader_reviews": [
+      {
+        "name": "Ava Davis",
+        "review": "Lyrical and enchanting. The serenade lingers in the heart.",
+        "age": 32
+      },
+      {
+        "name": "Elijah Harris",
+        "review": "Musical brilliance. Shadows dance to a captivating tune.",
+        "age": 37
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Ripples in Time",
+    "author": "Olivia Turner",
+    "cover": "/images/covers/Rectangle-7.jpg",
+    "rate": 4.3,
+    "release_date": 1701567999,
+    "description": "Temporal ripples reveal the interconnectedness of past and future.",
+    "downloads": 3456,
+    "reader_reviews": [
+      {
+        "name": "Liam Parker",
+        "review": "Fascinating exploration of time. Ripples add depth to the narrative.",
+        "age": 33
+      },
+      {
+        "name": "Mia Harris",
+        "review": "Thought-provoking. Ripples connect the threads of time.",
+        "age": 36
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Serenade of Reflection",
+    "author": "Ethan Turner",
+    "cover": "/images/covers/Rectangle-2.jpg",
+    "rate": 3.6,
+    "release_date": 1703228799,
+    "description": "Reflections in a melodic serenade that captivates the soul.",
+    "downloads": 5432,
+    "reader_reviews": [
+      {
+        "name": "Chloe Davis",
+        "review": "Musical and reflective. The serenade leaves a lasting impression.",
+        "age": 31
+      },
+      {
+        "name": "Owen Clark",
+        "review": "Beautifully composed. Reflective and serene.",
+        "age": 40
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Ephemeral Echoes",
+    "author": "Aria Turner",
+    "cover": "/images/covers/Rectangle-4.jpg",
+    "rate": 4.1,
+    "release_date": 1694943999,
+    "description": "Whispers that fade like morning mist, leaving echoes in their wake.",
+    "downloads": 5436345,
+    "reader_reviews": [
+      {
+        "name": "Sophie Parker",
+        "review": "Ephemeral yet powerful. Echoes linger long after.",
+        "age": 29
+      },
+      {
+        "name": "Nicholas Harris",
+        "review": "A symphony of words. Echoes resonate in the mind.",
+        "age": 38
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Reverie in Shadows",
+    "author": "Logan Turner",
+    "cover": "/images/covers/Rectangle-5.jpg",
+    "rate": 4.8,
+    "release_date": 1684022399,
+    "description": "Dreamy tales that unfold in the shadowy realms of imagination.",
+    "downloads": 222,
+    "reader_reviews": [
+      {
+        "name": "Emma Davis",
+        "review": "Enchanting. Reverie takes you to magical realms.",
+        "age": 32
+      },
+      {
+        "name": "Leo Clark",
+        "review": "Whimsical and dreamlike. A journey through shadows.",
+        "age": 43
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Serenade of Destiny",
+    "author": "Scarlett Harris",
+    "cover": "/images/covers/Rectangle-6.jpg",
+    "rate": 3.9,
+    "release_date": 1664783999,
+    "description": "Destiny's song echoes through the ages in a melodic serenade.",
+    "downloads": 637,
+    "reader_reviews": [
+      {
+        "name": "Ava Parker",
+        "review": "Melodic brilliance. Destiny's serenade captivates the heart.",
+        "age": 27
+      },
+      {
+        "name": "Liam Clark",
+        "review": "A musical journey. Serenade weaves destiny's threads.",
+        "age": 39
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Whispers of Harmony",
+    "author": "Isaac Turner",
+    "cover": "/images/covers/Rectangle-1.jpg",
+    "rate": 4.2,
+    "release_date": 1691238399,
+    "description": "Harmonious whispers that resonate in the quiet corners of the soul.",
+    "downloads": 5622,
+    "reader_reviews": [
+      {
+        "name": "Chloe Davis",
+        "review": "Lyrical and captivating. Whispers create a harmonious symphony.",
+        "age": 31
+      },
+      {
+        "name": "Owen Harris",
+        "review": "Beautifully harmonized. A journey through melodic whispers.",
+        "age": 40
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Eternal Ripples",
+    "author": "Noah Turner",
+    "cover": "/images/covers/Rectangle-7.jpg",
+    "rate": 4,
+    "release_date": 1696166399,
+    "description": "Ripples that traverse the river of time, leaving eternal imprints.",
+    "downloads": 984,
+    "reader_reviews": [
+      {
+        "name": "Ava Parker",
+        "review": "Eternal beauty. Ripples connect the past and future.",
+        "age": 32
+      },
+      {
+        "name": "Elijah Clark",
+        "review": "A journey through time. Ripples add depth to the narrative.",
+        "age": 37
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Serenade of Eternity",
+    "author": "Olivia Harris",
+    "cover": "/images/covers/Rectangle-5.jpg",
+    "rate": 4.7,
+    "release_date": 1689484799,
+    "description": "Eternal melodies that resonate in the tapestry of existence.",
+    "downloads": 1114,
+    "reader_reviews": [
+      {
+        "name": "Sophie Turner",
+        "review": "Melodic brilliance. Eternity's serenade captivates the heart.",
+        "age": 29
+      },
+      {
+        "name": "Michael Clark",
+        "review": "A symphony of eternity. Serenade transcends time.",
+        "age": 38
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Ephemeral Whispers",
+    "author": "Ethan Harris",
+    "cover": "/images/covers/Rectangle-2.jpg",
+    "rate": 3.8,
+    "release_date": 1693831999,
+    "description": "Whispers that linger for a moment, like fleeting dreams.",
+    "downloads": 226,
+    "reader_reviews": [
+      {
+        "name": "Ava Davis",
+        "review": "Captivating. Whispers evoke a sense of fleeting beauty.",
+        "age": 32
+      },
+      {
+        "name": "Elijah Clark",
+        "review": "Ephemeral beauty. Each whisper is like a fleeting dream.",
+        "age": 37
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Harmony of Shadows",
+    "author": "Isabella Turner",
+    "cover": "/images/covers/Rectangle-3.jpg",
+    "rate": 4.6,
+    "release_date": 1701567999,
+    "description": "Where shadows and harmony dance in a mesmerizing ensemble.",
+    "downloads": 469,
+    "reader_reviews": [
+      {
+        "name": "Sophia Davis",
+        "review": "Harmonious and captivating. Shadows waltz in a beautiful rhythm.",
+        "age": 28
+      },
+      {
+        "name": "Jacob Miller",
+        "review": "Musical brilliance. Harmony and shadows create a masterpiece.",
+        "age": 34
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Ephemeral Serenade",
+    "author": "Alexander Harris",
+    "cover": "/images/covers/Rectangle-10.jpg",
+    "rate": 4.2,
+    "release_date": 1703228799,
+    "description": "A fleeting serenade that enchants and disappears like morning dew.",
+    "downloads": 957,
+    "reader_reviews": [
+      {
+        "name": "Emma Turner",
+        "review": "Enchanting and ephemeral. The serenade leaves a lasting impression.",
+        "age": 32
+      },
+      {
+        "name": "Nicholas Clark",
+        "review": "Musical brilliance. An ephemeral journey through serenade.",
+        "age": 43
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Serenade of Harmony",
+    "author": "Madison Harris",
+    "cover": "/images/covers/Rectangle-2.jpg",
+    "rate": 3.7,
+    "release_date": 1677667199,
+    "description": "Harmonious melodies that weave through the tapestry of existence.",
+    "downloads": 136,
+    "reader_reviews": [
+      {
+        "name": "Ava Parker",
+        "review": "Lyrical and enchanting. Serenade creates a harmonious symphony.",
+        "age": 27
+      },
+      {
+        "name": "Liam Clark",
+        "review": "Musical brilliance. Harmony resonates through every page.",
+        "age": 39
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Whispers in Harmony",
+    "author": "Grace Harris",
+    "cover": "/images/covers/Rectangle-6.jpg",
+    "rate": 4.8,
+    "release_date": 1694943999,
+    "description": "Harmony found in the soft whispers that linger in the air.",
+    "downloads": 43,
+    "reader_reviews": [
+      {
+        "name": "Sophie Parker",
+        "review": "Captivating and harmonious. Whispers create a beautiful symphony.",
+        "age": 29
+      },
+      {
+        "name": "Michael Clark",
+        "review": "Harmony in every word. Whispers add depth to the narrative.",
+        "age": 38
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Ephemeral Harmony",
+    "author": "Nathan Harris",
+    "cover": "/images/covers/Rectangle-5.jpg",
+    "rate": 3.9,
+    "release_date": 1684022399,
+    "description": "A fleeting harmony that lingers in the heart like a gentle breeze.",
+    "downloads": 96,
+    "reader_reviews": [
+      {
+        "name": "Emma Turner",
+        "review": "Enchanting. Harmony lingers in the heart long after reading.",
+        "age": 32
+      },
+      {
+        "name": "Leo Clark",
+        "review": "A beautiful journey. Ephemeral harmony leaves a lasting impression.",
+        "age": 43
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Serenade in Shadows",
+    "author": "Aria Harris",
+    "cover": "/images/covers/Rectangle-8.jpg",
+    "rate": 4.5,
+    "release_date": 1696166399,
+    "description": "A musical serenade that echoes through the enigmatic shadows.",
+    "downloads": 176,
+    "reader_reviews": [
+      {
+        "name": "Sophia Parker",
+        "review": "Lyrical brilliance. The serenade dances with the shadows.",
+        "age": 28
+      },
+      {
+        "name": "Jacob Clark",
+        "review": "Musical and haunting. Shadows waltz to a captivating tune.",
+        "age": 34
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Whispers in Shadows",
+    "author": "Cameron Harris",
+    "cover": "/images/covers/Rectangle-7.jpg",
+    "rate": 4,
+    "release_date": 1691238399,
+    "description": "Soft whispers that weave through the mysterious realms of shadows.",
+    "downloads": 950,
+    "reader_reviews": [
+      {
+        "name": "Chloe Turner",
+        "review": "Intriguing. Whispers add depth to the shadowy narrative.",
+        "age": 31
+      },
+      {
+        "name": "Owen Clark",
+        "review": "Captivating. Shadows dance to the rhythm of whispers.",
+        "age": 40
+      }
+    ]
+  }
+]
